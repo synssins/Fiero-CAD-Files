@@ -11,6 +11,8 @@ Shared CAD for the Pontiac Fiero GT: body panels, glass, lights and the steel sp
 
 ![Quarter windows](images/1988%20Fiero%20GT%20Quarter%20Windows.png)
 
+![Space frame, rear section](images/1988%20Fiero%20GT%20SpaceFrame.png)
+
 ## Layout
 
 | Folder | What is in it |
